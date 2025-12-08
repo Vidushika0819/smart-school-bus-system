@@ -248,6 +248,7 @@ See the LICENSE file for more details.
 ## 👩‍💻 Developer
 
 Vidushika Madhushani
-GitHub: Vidushika0819
+Undergraduate Software Engineering Student
 
 ---
+
