@@ -1,6 +1,73 @@
-# SafeGo - School Transportation Management System
+# 🚍 SafeGo – Smart School Bus & Safety Monitoring Portal
 
-A comprehensive web application for managing school transportation with role-based access for Parents, Administrators, Coordinators, and Drivers.
+SafeGo is a full MERN-stack web application designed to improve school bus safety, student monitoring, and trip management.
+This system supports parents, drivers, coordinators, and school admins, providing real-time updates, alerts, and bus tracking simulation.
+
+## ⭐ Features
+
+### 👨‍👩‍👧 Parent Portal
+
+View assigned trips
+
+Track bus location (manual update system)
+
+Receive boarding/checkout alerts
+
+Manage student profiles
+
+### 🚌 Coordinator Panel
+
+Update bus location at each stop
+
+Mark student check-in & check-out
+
+Manage trip schedules
+
+Safety alert handling
+
+### 🧑‍🏫 Admin Module
+
+Manage drivers
+
+Manage buses
+
+Create and assign trips
+
+View student activity logs
+
+### 💳 Payment & Cost Handling
+
+Fee calculation
+
+Payment history
+
+Receipt generation
+
+## 🎯 Tech Stack
+
+### Frontend
+
+React.js
+
+Tailwind CSS / Material UI
+
+Axios
+
+Context API / Redux (if used)
+
+### Backend
+
+Node.js
+
+Express.js
+
+JWT authentication
+
+REST API architecture
+
+### Database
+
+MongoDB (Cloud or Local)
 
 ## 🚀 Quick Start Guide
 
@@ -173,10 +240,14 @@ npm test
 4. **CORS Errors**
    - Backend has CORS configured for frontend requests
 
-## 📞 Support
+## 📄 License
 
-For issues or questions, please check the project documentation or contact the development team.
+This project is released under the MIT License.
+See the LICENSE file for more details.
+
+## 👩‍💻 Developer
+
+Vidushika Madhushani
+GitHub: Vidushika0819
 
 ---
-
-**Happy coding with SafeGo! 🚍**
