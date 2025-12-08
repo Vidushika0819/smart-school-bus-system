@@ -247,8 +247,9 @@ See the LICENSE file for more details.
 
 ## 👩‍💻 Developer
 
-Vidushika Madhushani
+Vidushika Madhushani - 
 Undergraduate Software Engineering Student
 
 ---
+
 
