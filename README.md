@@ -244,12 +244,3 @@ npm test
 
 This project is released under the MIT License.
 See the LICENSE file for more details.
-
-## 👩‍💻 Developer
-
-Vidushika Madhushani - 
-Undergraduate Software Engineering Student
-
----
-
-
