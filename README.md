@@ -7,7 +7,7 @@ This system supports parents, drivers, coordinators, and school admins, providin
 
 ### 👨‍👩‍👧 Parent Portal
 
-View assigned trips
+-- View assigned trips
 
 Track bus location (manual update system)
 
