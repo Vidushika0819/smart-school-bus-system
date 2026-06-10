@@ -49,25 +49,25 @@ Receipt generation
 
 - React.js
 
-Tailwind CSS / Material UI
+- Tailwind CSS / Material UI
 
-Axios
+- Axios
 
-Context API / Redux (if used)
+- Context API / Redux (if used)
 
 ### Backend
 
-Node.js
+- Node.js
 
-Express.js
+- Express.js
 
-JWT authentication
+- JWT authentication
 
-REST API architecture
+- REST API architecture
 
 ### Database
 
-MongoDB (Cloud or Local)
+- MongoDB (Cloud or Local)
 
 ## 🚀 Quick Start Guide
 
