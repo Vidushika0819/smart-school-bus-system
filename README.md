@@ -7,41 +7,41 @@ This system supports parents, drivers, coordinators, and school admins, providin
 
 ### 👨‍👩‍👧 Parent Portal
 
--- View assigned trips
+- View assigned trips
 
-Track bus location (manual update system)
+- Track bus location (manual update system)
 
-Receive boarding/checkout alerts
+- Receive boarding/checkout alerts
 
-Manage student profiles
+- Manage student profiles
 
 ### 🚌 Coordinator Panel
 
-Update bus location at each stop
+- Update bus location at each stop
 
-Mark student check-in & check-out
+- Mark student check-in & check-out
 
-Manage trip schedules
+- Manage trip schedules
 
-Safety alert handling
+- Safety alert handling
 
 ### 🧑‍🏫 Admin Module
 
-Manage drivers
+- Manage drivers
 
-Manage buses
+- Manage buses
 
-Create and assign trips
+- Create and assign trips
 
-View student activity logs
+- View student activity logs
 
 ### 💳 Payment & Cost Handling
 
-Fee calculation
+- Fee calculation
 
-Payment history
+- Payment history
 
-Receipt generation
+- Receipt generation
 
 ## 🎯 Tech Stack
 
