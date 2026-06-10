@@ -47,7 +47,7 @@ Receipt generation
 
 ### Frontend
 
-React.js
+- React.js
 
 Tailwind CSS / Material UI
 
